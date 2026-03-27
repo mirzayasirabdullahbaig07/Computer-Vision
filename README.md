@@ -182,9 +182,6 @@ This repository includes:
 
 ---
 
-
----
-
 ## 📌 Goals
 
 - Learn OpenCV from scratch  
