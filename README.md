@@ -182,4 +182,45 @@ This repository includes:
 
 ---
 
-## 📂 Suggested Folder Structure
+
+---
+
+## 📌 Goals
+
+- Learn OpenCV from scratch  
+- Understand full CV pipeline  
+- Apply ML on image data  
+- Build real-world projects  
+
+---
+
+## 🤝 Contributing
+
+Feel free to:
+- Add projects  
+- Improve code  
+- Share notes  
+
+---
+
+## ⭐ Support
+
+If this helps you:
+- Star ⭐ the repo  
+- Share with others  
+
+---
+
+## 📢 Credits
+
+- CampusX OpenCV Series  
+- roadmap.sh community roadmap  
+- OpenCV documentation  
+
+---
+
+## 🚀 Final Note
+
+> "Learn Computer Vision by building — not just watching."
+
+Stay consistent and keep building!
